@@ -14,7 +14,7 @@
 ##
 
 <div>
-  ![Snake animation](https://github.com/MarcospAntunes/MarcospAntunes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcospantunes/marcospAntunes/blob/output/github-contribution-grid-snake.svg)
   <a href="https://github.com/marcospantunes">
   <img height="180em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospantunes&layout=compact&langs_count=7&theme=dracula"/>
