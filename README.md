@@ -2,6 +2,12 @@
 <img align="right" alt="Marcos-cat" height="200" width="200" src="https://github.com/MarcospAntunes/MarcospAntunes/blob/main/octocat-1691594313709.png">
 <h1 align="left">🐱‍👤Marcos Antunes</h1><br>
 
+<div>
+  <a href="https://github.com/marcospantunes">
+  <img height="180em" width="390em" loading="lazy" src="https://github-readme-stats.vercel.app/api?username=marcospantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="350em" loading="lazy"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospantunes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 <div style="display: inline_block">
   <h2>🚀Tecnologias</h2>
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,11 +22,7 @@
 
 ##
 
-<div>
-  <a href="https://github.com/marcospantunes">
-  <img height="180em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcospantunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospantunes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 
 <div>
   <h2>✨Sobre mim✨</h2>
