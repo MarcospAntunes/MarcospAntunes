@@ -29,7 +29,6 @@
     
 <div>
   <h2>Contato</h2>
-  <p>Sinta-se a vontade para entrar em contato comigo para trocar ideias sobre tecnologias voltadas para desenvolvimento Front-End ou, caso tenha tido interesse, para me contratar.😊</p>
   <a href = "mailto:marcospantunes203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-paulo-silva-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
