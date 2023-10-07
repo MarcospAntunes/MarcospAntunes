@@ -22,7 +22,7 @@
 <div>
   <h2>✨Sobre mim✨</h2>
   <p>Desde de a minha adolescência que eu gosto de tecnologias e sempre buscando sobre este vasto mundo que é a tecnologia. Nesta época eu comecei a aprender sobre hardware e logo em seguida comecei a me aprofundar mais em SO (principalmente Windows) e, hoje em dia, estou aprendendo sobre a área de Front-End que é a área que pretendo seguir.</p>
-<p>Atualmente sou Dev Júnior e estou estudando a biblioteca de JavaScript chamada ReactJS<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"/></p>
+<p>Atualmente sou Dev Júnior e estou estudando a biblioteca de JavaScript chamada ReactJS<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="40"/> e também o TypeScript <img align="center" alt="Marcos-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></p>
 <p>Nos tempos livres eu gosto de jogar videogame 🎮 e escutar músicas 🎶</p>
 </div>
 
