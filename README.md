@@ -1,8 +1,14 @@
 
 <img align="right" alt="Marcos-cat" height="200" width="200" src="https://github.com/MarcospAntunes/MarcospAntunes/blob/main/octocat-1691594313709.png">
-<h1 align="left">🐱‍👤Marcos Antunes</h1><br>
-<a href = "mailto:marcospantunes203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/marcos-paulo-silva-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<div>
+  <h1 align="left">🐱‍👤Marcos Antunes</h1>
+  <a href = "mailto:marcospantunes203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcos-paulo-silva-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
+<br/>
+
   
 <div>
   <a href="https://github.com/marcospantunes">
