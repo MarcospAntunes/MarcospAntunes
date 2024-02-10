@@ -4,7 +4,7 @@
   <h1 align="left">🐱‍👤Marcos Antunes</h1>
   <a href = "mailto:marcospantunes203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcos-paulo-silva-antunes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://marcospantunes.github.io/Meu-Portfolio" target="_blank"><img height="28" src="https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://marcospantunes.github.io/Meu-Portfolio"></a>
+  <a href="https://marcospantunes.github.io/Meu-Portfolio" target="_blank"><img height="28" src="https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white"></a>
 </div>
 
 <br/>
