@@ -29,6 +29,7 @@
   <img align="center" alt="Marcos-StyledComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <img align="center" alt="Marcos-NextJs" src="https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" alt="Marcos-C#" src="https://img.shields.io/badge/-.NET%20-blueviolet?logo=dotnet">
+  <img align="center" alt="Marcos-Docker" src="https://img.shields.io/badge/-docker%20-white?logo=docker">
 </section>
 <br>
 <section id="sobre-mim">
